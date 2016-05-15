@@ -1,5 +1,5 @@
 # MyASMclass
-CET3510 related assignment
+CET3510 related assignment for 
 Windows version (using Cygwin, Putty, or Virtual Machine). All steps below assume use of the command line:
     1) Create a custom directory for your assignment
     2) Using Github and the "git clone" command, download the "CET3510_Lecture_assignments" repository
